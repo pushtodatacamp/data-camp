@@ -1,0 +1,24 @@
+Git-Bash commands
+#To download the repository or the folder you create in git hub 
+=>git clone (url of the repository) 
+
+# To check the status of the file type in gitbash cmd
+=> git status 
+it will show the all the file which is not added or new.
+
+#To upload new new file in github 
+
+(step1) -- git add (name of the file) 
+example:
+=> git add file 1.txt 
+
+(step2) now we will commit that file so
+
+=> git commit -m "any mesg" 
+
+(step3) -- Now we will push that file so
+
+=> git push 
+------------------
+thats it the file uploading is complete now go to git hub and refresh the page you will see your all new and updated files....
+ 
